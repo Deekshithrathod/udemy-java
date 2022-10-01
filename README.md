@@ -8,4 +8,5 @@ Section-4: JVM & JVM architecture
 - JVM converts bytecode to machine code
 Concepts learnt in this section are: Just-In-Time(JIT compilation), Class Loading, Method Area, Heap, Stack, OOP, Garbage Collections.
 
-mock-commit
+mock-commit-01-oct-2022
+
