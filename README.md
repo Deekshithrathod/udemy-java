@@ -9,6 +9,10 @@ Section-1: Java Introduction
 - Learnt how to compile & run a java program
 - Learnt how to take input from user & print things on terminal & also learning, how to take command line arguments in a java program
 
+Section-2: Data Types - Variables, Literals
+- Learnt about the primitive data types in JAVA
+- Learnt what literals are & how to use
+- Learnt methods to convert numbers from int to hex, oct & binary sytems
 
 Section-4: JVM & JVM architecture
 - JVM converts bytecode to machine code
