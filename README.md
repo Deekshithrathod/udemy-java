@@ -38,4 +38,43 @@ Section-4: JVM & JVM architecture
 - Native Method Stack: This is to communicate with other languages like c, c++
 - Execution Engine: Garbage Collector, JIT compiler, Interpreter
 - JVM converts bytecode to machine code
-  Concepts learnt in this section are: Just-In-Time(JIT compilation), Class Loading, Method Area, Heap, Stack, OOP, Garbage Collections..
+  - Concepts learnt in this section are: Just-In-Time(JIT compilation), Class Loading, Method Area, Heap, Stack, OOP, Garbage Collections..
+
+Section-5: Operators & Expressions
+- Operators: +, -, *, /, % 
+  - Precedence of Operators: *,/,%  > -,+
+- Bitwise Operators
+
+| Operation             | Symbol |
+|:----------------------|:------:|
+| And                   |   &    |
+| Or                    |   \    |
+| Xor                   |   ^    |
+| Not                   |   ~    |
+| Left Shift            |   <<   |
+| Right Shift           |  \>>   |
+| Right Shift un-signed |  \>>>  |
+
+- Bit Masking & Merging
+- Widening & Narrowing:
+  - Widening: up-casting
+  - Narrowing: down-casting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
