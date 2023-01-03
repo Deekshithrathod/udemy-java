@@ -28,3 +28,4 @@ hs_err_pid*
 # compiled files in intellij location
 out/*
 udemy-java.iml
+.DS_STORE
