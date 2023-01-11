@@ -70,11 +70,6 @@ Section-5: Operators & Expressions
     - Widening: up-casting
     - Narrowing: down-casting
 
-Section-4: JVM & JVM architecture
-
-- Learnt about the various String methods
-- Learnt how to use reqex in String methods
-
 Section-11: Inheritance
 
 - Learnt about `extends` keyword
