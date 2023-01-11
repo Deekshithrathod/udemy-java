@@ -75,8 +75,12 @@ Section-4: JVM & JVM architecture
 - Learnt about the various String methods
 - Learnt how to use reqex in String methods
 
+Section-11: Inheritance
 
-
+- Learnt about `extends` keyword
+- Learnt about ways in which polymorphism can be achieved
+- Learnt about Method over-riding (to achieve run-time polymorphism)
+- Learnt about Method over loading (to achieve compile-time polymorphism)
 
 
 
