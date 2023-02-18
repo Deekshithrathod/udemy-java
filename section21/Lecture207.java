@@ -11,10 +11,10 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
-@Target(value = {ElementType.FIELD,ElementType.CONSTRUCTOR,ElementType.LOCAL_VARIABLE, ElementType.METHOD, ElementType.MODULE, ElementType.PACKAGE})
-@Retention(value = RetentionPolicy.SOURCE)
+//@Target(value = {ElementType.FIELD,ElementType.CONSTRUCTOR,ElementType.LOCAL_VARIABLE, ElementType.METHOD, ElementType.MODULE, ElementType.PACKAGE})
+//@Retention(value = RetentionPolicy.SOURCE)
 @interface MyAnno{
-    String authorName();
+    String name();
 }
 
 //@MyAnno(name = "dexter")
