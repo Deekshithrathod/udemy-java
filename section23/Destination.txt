@@ -1,4 +1,0 @@
-java test file
-JAVA TEST FILE
-SECOND SENTENCE
-THIRD
